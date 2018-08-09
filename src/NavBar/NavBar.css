@@ -1,0 +1,30 @@
+.NavBar {
+  background: rgb(55, 55, 55);
+  border: 2px solid rgb(55, 55, 55);
+  display: flex;
+  height: 30px;
+}
+
+.Logo {
+  background: grey;
+  display: flex;
+  width: 63px;
+}
+
+.Logo img {
+  height: 25px;
+  padding: 2px;
+  margin: 0 15px;
+  width: 25px;
+}
+
+.Options {
+  color : white;
+  display: flex;
+  align-items: center;
+}
+
+.Options * {
+  padding: 6px 15px;
+  margin: 2px;
+}
