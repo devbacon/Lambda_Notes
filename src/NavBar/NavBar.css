@@ -19,9 +19,9 @@
 }
 
 .Options {
+  align-items: center;
   color : white;
   display: flex;
-  align-items: center;
 }
 
 .Options * {
